@@ -1,0 +1,2 @@
+# EnterWithABang
+Old MC plugin.
